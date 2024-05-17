@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123148網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T05:52:55+08:00</updated><entry><title>2024 Spring w10</title><link href="./41123148_w11.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-17T05:52:55+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-05-03:./41123148_w11.html</id><summary type="html">&lt;p&gt;從第十一週開始, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件，並實際進行鋼球平衡台與綜合球賽機器人模擬系統的協同設計.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123148網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T08:09:58+08:00</updated><entry><title>2024 Spring w10</title><link href="./41123148_w11.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-17T08:09:58+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-05-03:./41123148_w11.html</id><summary type="html">&lt;p&gt;從第十一週開始, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件，並實際進行鋼球平衡台與綜合球賽機器人模擬系統的協同設計.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;從第十一週開始, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件，並實際進行鋼球平衡台與綜合球賽機器人模擬系統的協同設計.&lt;/p&gt;
 
 
@@ -21,7 +21,10 @@
 15.認識場景存檔的三種格式（binary與XML間的轉換及應用)及應用時機
 16.瞭解如何運用 Web-based 場景模擬串流
 17.學習如何建立場景控制程式（internal Lua、Python、Remoteapi Python、IPv4 Websocket&amp;amp;ZMQ vs IPv6 Websocket&amp;amp;ZMQ)
-18.了解如何協同整理資料、編寫網誌、建立網際簡報及結案報告&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring w10</title><link href="./41123148_w10.html" rel="alternate"></link><published>2024-04-26T13:20:00+08:00</published><updated>2024-05-17T05:52:46+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-04-26:./41123148_w10.html</id><summary type="html">&lt;p&gt;協同產品設計實習第十週實習操作, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.&lt;/p&gt;
+18.了解如何協同整理資料、編寫網誌、建立網際簡報及結案報告&lt;/p&gt;
+&lt;h1&gt;零件繪製&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123148_nfu_edu_tw/ES1O_tLo7dJDgSk30O3aM5MB27vxNHBNibl3MS5wjix97w?e=apYCro"&gt;零件檔&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/41123148_nfu_edu_tw/EUYq8z7ygJpNpgWGG_soGKUBlonP_1B3XhyqLnTVB5wqeQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=R4IVhH"&gt;繪製過程&lt;/a&gt;&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring w10</title><link href="./41123148_w10.html" rel="alternate"></link><published>2024-04-26T13:20:00+08:00</published><updated>2024-05-17T05:52:46+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-04-26:./41123148_w10.html</id><summary type="html">&lt;p&gt;協同產品設計實習第十週實習操作, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習第十週實習操作, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.&lt;/p&gt;
 
 
